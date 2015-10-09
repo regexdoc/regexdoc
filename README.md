@@ -1,3 +1,5 @@
 regexdoc
 ========
-This repository is only used for the community to submit suggestions for regexdoc
+
+regexdoc is a Q&A project that documents regular expression (regex) syntax.
+

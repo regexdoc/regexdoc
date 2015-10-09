@@ -6,7 +6,7 @@ regexdoc is a Q&A website that documents regular expression (regex) syntax.
 
 ### License
 
-Licensed under [Creative Commons Attribution](http://creativecommons.org/licenses/by/3.0/) by, and copyright 2015, [@hwnd](http://stackoverflow.com/users/2206004/hwnd).
+Licensed under [Creative Commons Attribution](http://creativecommons.org/licenses/by-sa/3.0/) by, and copyright 2015, [@hwnd](http://stackoverflow.com/users/2206004/hwnd).
 
 ### Contribution
 

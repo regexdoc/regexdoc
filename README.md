@@ -1,6 +1,6 @@
 # regexdoc
 
-regexdoc is a Q&A website that documents regular expression (regex) syntax.
+regexdoc is a Q&A website for regular expression syntax.
 
 ---
 
@@ -10,5 +10,5 @@ Licensed under [Creative Commons Attribution](http://creativecommons.org/license
 
 ### Contribution
 
-Thanks to the users [@regex](http://chat.stackoverflow.com/rooms/25767/regex-regular-expressions) for any contributions made.
+Thanks to **stack**overflow [@regex](http://chat.stackoverflow.com/rooms/25767/regex-regular-expressions) for any contributions made.
 

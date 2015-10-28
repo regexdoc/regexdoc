@@ -1,7 +1,7 @@
-regexdoc
+Regexdoc
 ====
 
-regexdoc is a resource website, providing basic to intermediate knowledge of regular expressions.
+Regexdoc is a resource website, providing basic to intermediate knowledge of regular expressions.
 
 ----
 

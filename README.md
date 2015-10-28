@@ -1,6 +1,6 @@
 # regexdoc
 
-regexdoc is a Q&A website for regular expression syntax.
+regexdoc is a community website for regular expression syntax.
 
 ---
 
